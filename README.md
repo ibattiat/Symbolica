@@ -7,6 +7,7 @@ Symbolica is a symbolic computational code for automating multiscale model devel
 Cite the code: [![DOI](https://zenodo.org/badge/613093394.svg)](https://zenodo.org/badge/latestdoi/613093394)
 
 An introduction to Symbolica can be found in the following paper:
+
 K. Pietrzyk et al., Upscaling and automation: pushing the boundaries of multiscale modeling through symbolic computing,
 Transport in Porous Media, 140, pp. 313-349, 2021.
 
