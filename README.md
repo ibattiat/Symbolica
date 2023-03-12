@@ -1,4 +1,18 @@
-To run the provided examples:
+
+
+# Symbolica
+## This code is under developement, i.e. not final version.
+Symbolica is a symbolic computational code for automating multiscale model development via upscaling (e.g., asymptotic homogenization).
+
+Cite the code: [![DOI](https://zenodo.org/badge/613093394.svg)](https://zenodo.org/badge/latestdoi/613093394)
+
+An introduction to Symbolica can be found in the following paper:
+K. Pietrzyk et al., Upscaling and automation: pushing the boundaries of multiscale modeling through symbolic computing,
+Transport in Porous Media, 140, pp. 313-349, 2021.
+
+(https://link.springer.com/article/10.1007/s11242-021-01628-9)
+
+## To run the provided examples:
 
 	1. Open "Symbolica.nb" using Mathematica.
 
@@ -9,6 +23,3 @@ To run the provided examples:
 	4. Evaluate the notebook by selecting the "Evaluate Notebook" option from the "Evaluation" tab at the top of the window. Symbolica will run and display the output file in around 18 seconds for problem 1, and around 7 minutes for problem 2. This file contains the multiple outputs (e.g., the upscaled equations, closure problems, dimensionless numbers, closure variables, etc.)
 
 	5. Before re-running or testing another input, quit the local kernel. This can be done by finding the "Quit Kernel" option from the "Evaluation" tab at the top of the window, and selecting the "Local" option. This will help avoid mixing previous results with those of the new inputs.
-
-
-Cite the code: [![DOI](https://zenodo.org/badge/613093394.svg)](https://zenodo.org/badge/latestdoi/613093394)
